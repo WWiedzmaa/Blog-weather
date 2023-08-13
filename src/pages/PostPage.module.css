@@ -1,0 +1,51 @@
+.root {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.root img {
+    border-radius: 5px;
+    width: 50%;
+    height: 250px;
+}
+
+.text {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 30px;
+    color: rgb(190, 190, 190);
+    text-align: justify;
+}
+
+.authorImg {
+
+    padding: 10px;
+    text-align: center;
+    margin-left: 25px;
+    border: solid;
+    border-radius: 50%;
+}
+
+.titleText {
+    position: absolute;
+    top: 11%;
+    left: 26%;
+    border-radius: 7px;
+    font-size: 40px;
+    padding: 4px;
+    color: rgb(74 70 70 / 89%);
+    text-shadow: -5px 12px 3px rgb(175, 175, 175);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.author {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    margin-left: 25px;
+}
+
+.name {
+    margin-left: 20px;
+}

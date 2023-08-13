@@ -1,0 +1,25 @@
+.main {
+    font-size: 45px;
+    margin: 10px;
+    font-family: emoji;
+    font-weight: bold;
+}
+
+.span {
+    font-size: 30px;
+    margin: 8px 8px;
+    font-weight: normal;
+}
+
+.detals {
+    font-size: 30px;
+    font-family: emoji;
+    font-weight: bold;
+}
+
+.root {
+    margin-left: 5px;
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: rgba(145, 143, 143, 0.329);
+}

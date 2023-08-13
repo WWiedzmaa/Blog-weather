@@ -1,0 +1,14 @@
+.root {
+    display: flex;
+}
+
+.date {
+    font-size: 30px;
+}
+
+.detals {
+    font-size: 30px;
+    font-family: emoji;
+    font-weight: bold;
+    margin-left: 15px;
+}

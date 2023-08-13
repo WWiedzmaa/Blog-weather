@@ -1,0 +1,20 @@
+.divider{
+    border-bottom-width:1px;
+    margin: 10px 5px;
+
+}
+.footer{
+    height: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: rgb(37, 36, 37);
+    font-size: smaller;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.logo{
+    height: 100px;
+    width: 150px;
+    margin: 10px;
+    opacity: 0.7;
+}

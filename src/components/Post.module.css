@@ -1,0 +1,69 @@
+.title {
+    position: absolute;
+    top: 20px;
+    left: 5%;
+    background-color: rgb(212, 190, 160);
+    border-radius: 7px;
+    font-size: larger;
+    padding: 4px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.author {
+    border: solid;
+    border-radius: 50%;
+
+}
+
+.short {
+    width: 60%;
+    text-align: justify;
+    color: rgb(202, 195, 195);
+    padding: 10px;
+    margin-left: 25px;
+}
+
+.bnt {
+
+    border-radius: 7px;
+    background-color: rgb(145, 153, 150);
+    padding: 8px;
+    color: rgb(43 45 45);
+}
+
+.bnt:hover {
+    background-color: rgb(204, 204, 204);
+    ;
+}
+
+.name {
+    color: rgb(202, 195, 195);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 10px;
+
+}
+
+.root {
+    position: relative;
+}
+
+.root img {
+    border-radius: 5px;
+    width: 95%;
+    height: 300px;
+}
+
+.root img:hover {
+    opacity: 0.8;
+}
+
+.authorImg {
+    padding: 10px;
+    text-align: left;
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+
+}

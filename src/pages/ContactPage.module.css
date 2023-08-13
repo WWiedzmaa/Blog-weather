@@ -1,0 +1,40 @@
+.main {
+    margin-left: 20%;
+    font-size: 50px;
+    color: rgb(190, 190, 190);
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 20px;
+}
+
+.inputText {
+    margin: 10px;
+    background-color: transparent;
+    width: 50%;
+    border: 1px solid #918f8f;
+    border-radius: 10px;
+    color: #b9aaaa;
+}
+
+.checkbox {
+    color: #b9aaaa;
+}
+
+.FormControlLabel {
+    margin: 5px;
+}
+
+.bnt {
+    margin: 5px;
+    width: 80px;
+    height: 40px;
+    border: 1px solid #918f8f;
+    border-radius: 10px;
+    background-color: transparent;
+    color: #b9aaaa;
+    font-size: 20px;
+}
